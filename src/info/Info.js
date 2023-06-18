@@ -87,7 +87,7 @@ export const info = {
 
     // ],
     bio: "Hello! I'm Arasu Ramanan. I'm a MERN Stack Developer. I know React, Node, Express, MongoDB",
-    skills:
+    SkillSet :
         {
             proficientWith: ['javascript', 'React', 'git', 'github', 'bootstrap'],
             exposedTo: ['Node']
