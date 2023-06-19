@@ -18,7 +18,8 @@ export default function BaseLayout() {
    }
 
    useEffect(() => {
-       let detectedDarkMode = glider(localStorage.getItem('darkMode'));
+      //  let detectedDarkMode = eval(localStorage.getItem('darkMode'));
+      let detectedDarkMode = localStorage.getItem('darkMode') === 'true';
 
       if (detectedDarkMode) {
          setDarkMode(detectedDarkMode)
