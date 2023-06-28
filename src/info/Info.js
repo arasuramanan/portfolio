@@ -115,30 +115,30 @@ export const info = {
     ],
     portfolio: [ // This is where your portfolio projects will be detailed
         {
-            title: "Project 1",
+            title: "Form Conversion",
             live: "https://nflcbe.netlify.app/", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-            source1: "https://github.com/arasuramanan/forma23",
-            source2: "https://github.com/arasuramanan/formb23", // this should be a link to the **repository** of the project, where the code is hosted.
+            // source1: "https://github.com/arasuramanan/forma23",
+            // source2: "https://github.com/arasuramanan/formb23", // this should be a link to the **repository** of the project, where the code is hosted.
             image: mock1
         },
         {
-            title: "Project 2",
-            live: "https://relaxed-tarsier-b01df6.netlify.app",
-            source1: "https://github.com/arasuramanan/FoodOrdering-Backend",
-            source2: "https://github.com/arasuramanan/FoodOrdering-FrontEnd",
+            title: "Spotify Clone",
+            live: "https://sensational-chebakia-359bb2.netlify.app/auth/login",
+            // source1: "https://github.com/arasuramanan/FoodOrdering-Backend",
+            // source2: "https://github.com/arasuramanan/FoodOrdering-FrontEnd",
             image: mock2
         },
         {
             title: "Project 3",
             live: "https://inquisitive-entremet-b0e1b3.netlify.app",
-            source: "https://github.com/arasuramanan/First-Webcode",
+            // source: "https://github.com/arasuramanan/First-Webcode",
             image: mock4
         },
         {
-            title: "Project 4",
+            title: "Chat App",
             live: "https://classy-bienenstitch-9438f1.netlify.app",
-            source1: "https://github.com/arasuramanan/chat-backend",
-            source2: "https://github.com/arasuramanan/chat-frontEnd",
+            // source1: "https://github.com/arasuramanan/chat-backend",
+            // source2: "https://github.com/arasuramanan/chat-frontEnd",
             image: mock3
         },
 
