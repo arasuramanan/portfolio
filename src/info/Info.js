@@ -115,27 +115,27 @@ export const info = {
     ],
     portfolio: [ // This is where your portfolio projects will be detailed
         {
-            title: "Form Conversion",
+            title: "Form Conversion MERN",
             live: "https://nflcbe.netlify.app/", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
             // source1: "https://github.com/arasuramanan/forma23",
             // source2: "https://github.com/arasuramanan/formb23", // this should be a link to the **repository** of the project, where the code is hosted.
             image: mock1
         },
         {
-            title: "Spotify Clone",
+            title: "Spotify Clone MERN",
             live: "https://sensational-chebakia-359bb2.netlify.app/auth/login",
             // source1: "https://github.com/arasuramanan/FoodOrdering-Backend",
             // source2: "https://github.com/arasuramanan/FoodOrdering-FrontEnd",
             image: mock2
         },
         {
-            title: "Project 3",
+            title: "Youtube Clone MERN",
             live: "https://inquisitive-entremet-b0e1b3.netlify.app",
             // source: "https://github.com/arasuramanan/First-Webcode",
             image: mock4
         },
         {
-            title: "Chat App",
+            title: "Chat App MERN",
             live: "https://classy-bienenstitch-9438f1.netlify.app",
             // source1: "https://github.com/arasuramanan/chat-backend",
             // source2: "https://github.com/arasuramanan/chat-frontEnd",
