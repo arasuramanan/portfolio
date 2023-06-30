@@ -51,7 +51,7 @@ export const info = {
       },
     socials: [
         {
-          link: "https://drive.google.com/file/d/1L8qdP3cb6fo5rstxSyy_NGIe_xZpi1NP/view?usp=sharing",
+          link: "https://drive.google.com/file/d/1QpBokA5nr_1d51X5_elR-LbJ4ea_wL7b/view?usp=sharing",
           icon: "fa fa-file",
           label: 'resume'
         },
